@@ -1,0 +1,44 @@
+{
+ "ucmerced/kendiModelim": {
+  "son_train_acc": 0.4409722222222222,
+  "son_valid_acc": 0.435515873015873,
+  "en_iyi_epoch": 15,
+  "en_iyi_valid_acc": 0.435515873015873,
+  "sure_sn": 129.20882773399353
+ },
+ "ucmerced/resnet": {
+  "son_train_acc": 0.9745370370370371,
+  "son_valid_acc": 0.9563492063492064,
+  "en_iyi_epoch": 15,
+  "en_iyi_valid_acc": 0.9563492063492064,
+  "sure_sn": 89.78624558448792
+ },
+ "ucmerced/efficientnet": {
+  "son_train_acc": 0.9901620370370371,
+  "son_valid_acc": 0.978670634920635,
+  "en_iyi_epoch": 4,
+  "en_iyi_valid_acc": 0.9821428571428571,
+  "sure_sn": 153.90511059761047
+ },
+ "nwpu/kendiModelim": {
+  "son_train_acc": 0.661196375739645,
+  "son_valid_acc": 0.6821691176470588,
+  "en_iyi_epoch": 15,
+  "en_iyi_valid_acc": 0.6821691176470588,
+  "sure_sn": 1177.4347035884857
+ },
+ "nwpu/resnet": {
+  "son_train_acc": 0.8737980769230769,
+  "son_valid_acc": 0.8238970588235294,
+  "en_iyi_epoch": 13,
+  "en_iyi_valid_acc": 0.8254901960784314,
+  "sure_sn": 1056.3862376213074
+ },
+ "nwpu/efficientnet": {
+  "son_train_acc": 0.8751386834319527,
+  "son_valid_acc": 0.8355392156862744,
+  "en_iyi_epoch": 15,
+  "en_iyi_valid_acc": 0.8355392156862744,
+  "sure_sn": 1125.9807159900665
+ }
+}
